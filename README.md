@@ -1,6 +1,6 @@
 # CV
 # webpage
-![image](https://roadmap.sh/projects/single-page-cv)
+![image](https://roadmap.sh/projects/single-page-cv?semt=ais_hybrid?raw=true)
 
 ## 🛠️ Features  
 
