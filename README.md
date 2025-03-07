@@ -2,8 +2,6 @@
 
 ![image](https://roadmap.sh/projects/single-page-cv?semt=ais_hybrid?raw=true)
 
-https://github.com/Manasa2345-alt/CV/blob/main/CV.html
-
 https://roadmap.sh/projects/single-page-cv
 
 ## 🛠️ Features  
